@@ -8,13 +8,13 @@ Course Pilot logs in to VTU, fetches your course lectures, and submits lecture p
 
 ## Features
 
-- ✅ Web UI for easy local access
-- ✅ CLI mode for direct automation
-- ✅ Live progress via Server-Sent Events (SSE)
-- ✅ Queueing with configurable concurrency
-- ✅ Automatic session refresh for VTU auth failures
-- ✅ Optional Redis-backed stats and persistence
-- ✅ Runtime admin config support
+-  Web UI for easy local access
+-  CLI mode for direct automation
+-  Live progress via Server-Sent Events (SSE)
+-  Queueing with configurable concurrency
+-  Automatic session refresh for VTU auth failures
+-  Optional Redis-backed stats and persistence
+-  Runtime admin config support
 
 ---
 

@@ -34,20 +34,3 @@ npm install
 npm run serve
 ```
 ---
-
-## API Reference
-
-### Submit a job
-
-`POST /api/submit`
-
-Request body:
-
-```json
-{
-  "email": "you@example.com",
-  "password": "your-password",
-  "courseSlug": "1-social-networks"
-}
-```
-

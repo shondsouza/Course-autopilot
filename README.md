@@ -18,7 +18,6 @@ Course Pilot logs in to VTU, fetches your course lectures, and submits lecture p
 
 ---
 
-## Quickstart
 
 ### 1. Install
 
